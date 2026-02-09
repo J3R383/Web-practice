@@ -1,2 +1,3 @@
 # Web-practice
-This is a simple repository as I learn Web development
+This is a simple web development repository as I learn Web development
+
